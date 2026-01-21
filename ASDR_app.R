@@ -13,6 +13,12 @@ library(haven)
 library(labelled)
 library(data.table)
 
+# rsconnect::writeManifest(
+#  appDir = getwd(),
+#   appFiles = c("ASDR_app.R", "SDR_comparison_jan_2026.dta"), # Add "data.csv" here if you have one!
+#   appPrimaryDoc = "ASDR_app.R"
+# )
+
 
 
 
